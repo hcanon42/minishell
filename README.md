@@ -29,7 +29,7 @@ I implemented the following features to the shell:
 
 ## Installation
 
-Just pull the project !\
+Just pull the project !
 
 ## Usage
 
